@@ -1,0 +1,1 @@
+import metin_ozetleme

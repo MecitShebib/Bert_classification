@@ -1,0 +1,9 @@
+spacy
+gensim<4.0.0
+nltk
+beautifulsoup4
+simpletransformers
+transformers
+torch
+multiprocess
+numpy
